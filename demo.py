@@ -1,9 +1,3 @@
-0 contributors 
-46 lines (40 sloc) 1.68 KB 
-Raw
-Blame
-History
-
 
 from numpy import *
 
